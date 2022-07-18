@@ -11,7 +11,7 @@ public class Principal {
 
         Bootcamp bootcamp = new Bootcamp(LocalDate.now(),LocalDate.now().plusMonths(1),"Santander",1,"Para garotas");
 
-        Cursos cursos = new Cursos("Introducao","Inicio do caminho",1,124.5);
+        Cursos cursos = new Cursos("Introducao","Inicio do caminho",1,124);
 
         Mentorias mentorias = new Mentorias("Duvidas","hora de codar",3,14.0);
 
