@@ -1,2 +1,2 @@
 ## Santander Code Girls
-Desafios desenvolvidos durante o bootcamp Santander Code Girls
+Desafio de abstrair um bootcamp com orientação a objetos.
